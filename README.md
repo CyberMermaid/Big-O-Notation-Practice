@@ -122,5 +122,3 @@ Answer the following questions
 ### **BONUS**
 
 1. What’s the space complexity of the Object.keys() function?
-
-[Solution](https://lessons.springboard.com/Solution-05037f68d7aa4c4f8f8e380181084cca?pvs=21)
